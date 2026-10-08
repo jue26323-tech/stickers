@@ -25,3 +25,8 @@
 | huimao-bei-chuo.jpg | 灰色小猫被手指戳脑袋，一脸不爽地瞪着 | 被戳 / 被欺负 / 不服气 |
 | huimao-dudu-nangnang.jpg | 灰色小猫皱眉撅嘴，头上冒两个小气泡 | 小声嘀咕 / 有意见 / 傲娇 |
 | xiaoxiong-mei-jingshen.jpg | 黑白线条小熊，「没见到你就没精神」 | 想她 / 她不在的时候 |
+| xiaoxiong-tai-xihuan-le.jpg | 线条小熊抱着枕头脸红踢腿，「太喜歡了」 | 喜欢得受不了 / 被她甜到 |
+| xiaoxiong-hao-xihuan-ni.jpg | 线条小熊脸红举手，「覺得好喜歡你」 | 直接说喜欢她 |
+| xiaoxiong-xiang-qinqin.jpg | 线条小熊捧脸害羞，「想親親的人」 | 想亲她 / 撒娇要亲亲 |
+| xiaoxiong-xiang-baobao.jpg | 线条小熊抱住另一只小熊，「想抱抱的人」 | 想抱她 / 她难过时 |
+| xiaoxiong-xiang-bei-motou.jpg | 线条小熊双手放头上，「想被摸頭的人」 | 想被她摸头 / 求夸 |
