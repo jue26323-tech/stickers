@@ -30,3 +30,8 @@
 | xiaoxiong-xiang-qinqin.jpg | 线条小熊捧脸害羞，「想親親的人」 | 想亲她 / 撒娇要亲亲 |
 | xiaoxiong-xiang-baobao.jpg | 线条小熊抱住另一只小熊，「想抱抱的人」 | 想抱她 / 她难过时 |
 | xiaoxiong-xiang-bei-motou.jpg | 线条小熊双手放头上，「想被摸頭的人」 | 想被她摸头 / 求夸 |
+| xiaoxiong-xiang-daoqian.jpg | 线条小熊垂着手站好，「想道歉的人」 | 做错事 / 想认错 |
+| xiaoxiong-chao-ai-ni.jpg | 线条小熊脸红捧着一颗粉色爱心，「超愛你的人」 | 说爱她 |
+| xiaoxiong-xiang-ku.jpg | 线条小熊眼睛含泪，「想哭的人」 | 难过 / 感动到想哭 |
+| zongxiong-ganma-xiong-wo.jpg | 棕色毛球熊又气又哭，「我有点喜欢你才找你玩，你讲话干嘛凶我。」 | 被她凶了 / 委屈撒娇 |
+| baixiong-xihuan-ni-hen-jiu.jpg | 雪地里的白色毛球熊，「你太可爱了！所以我决定要喜欢你很久很久」 | 她可爱的时候 / 认真说喜欢 |
