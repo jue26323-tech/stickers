@@ -35,3 +35,8 @@
 | xiaoxiong-xiang-ku.jpg | 线条小熊眼睛含泪，「想哭的人」 | 难过 / 感动到想哭 |
 | zongxiong-ganma-xiong-wo.jpg | 棕色毛球熊又气又哭，「我有点喜欢你才找你玩，你讲话干嘛凶我。」 | 被她凶了 / 委屈撒娇 |
 | baixiong-xihuan-ni-hen-jiu.jpg | 雪地里的白色毛球熊，「你太可爱了！所以我决定要喜欢你很久很久」 | 她可爱的时候 / 认真说喜欢 |
+| zhengou-kanzhe-ni.jpg | 真的小奶狗凑近镜头盯着看，「我这么看着你 就是因为我特别喜欢你呀」 | 盯着她看 / 喜欢她 |
+| zhengou-ceng-shou.jpg | 真的小奶狗把脸埋进手心蹭，「当我这样的时候 就是非常喜欢你的意思」 | 想蹭她 / 撒娇 |
+| xiaogou-chun-tiaoxin.jpg | 白色小狗叉腰得意脸，「纯挑衅」 | 故意逗她 / 欠揍 |
+| xiaogou-cengceng.jpg | 白色小狗眨一只眼蹭过来，「蹭蹭」 | 蹭蹭她 / 黏人 |
+| xiaogou-kaixin.jpg | 白色小狗脸红眯眼笑、满身金色闪光 | 开心 / 满足 / 被宠到 |
