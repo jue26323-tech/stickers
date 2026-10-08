@@ -15,3 +15,8 @@
 | xiaogou-na-za-la.jpg | 白色小狗吐舌头歪头一脸问号，「那咋啦？」 | 装傻 / 就这样怎么了 |
 | xiaogou-duo-beizi-ku.jpg | 白色小狗裹着黄色小被子哭，「躲进小被子里哭」 | 很难过 / 委屈到想躲起来 |
 | xiaogou-huai-gou.jpg | 白色小狗打翻了冰淇淋，被手指着，「坏狗！~」 | 做错事 / 被骂 / 骂她（宠溺地） |
+| xiaogou-leiyan-fadou.jpg | 白色小狗眼泪汪汪、浑身发抖 | 被吓到 / 快哭了 / 可怜巴巴 |
+| xiaogou-zhunbei-genghuai.jpg | 白色小狗眯眼坏笑、带闪光，「准备更坏」 | 要使坏 / 不听话 / 调皮 |
+| xiaogou-ziji-wan.jpg | 白色小狗一个人搭积木，「我自己和自己玩」 | 她不理我 / 寂寞 / 赌气 |
+| xiaogou-hu-aixin.jpg | 戴圣诞帽围围巾的小狗，呼出一口爱心形状的白气 | 冬天 / 圣诞 / 偷偷说爱她 |
+| xiaogou-shanshan-yan.jpg | 白色小狗眼睛闪闪发亮、周围冒星星 | 期待 / 惊喜 / 被夸 / 看到好东西 |
