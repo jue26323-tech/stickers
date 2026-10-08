@@ -20,3 +20,8 @@
 | xiaogou-ziji-wan.jpg | 白色小狗一个人搭积木，「我自己和自己玩」 | 她不理我 / 寂寞 / 赌气 |
 | xiaogou-hu-aixin.jpg | 戴圣诞帽围围巾的小狗，呼出一口爱心形状的白气 | 冬天 / 圣诞 / 偷偷说爱她 |
 | xiaogou-shanshan-yan.jpg | 白色小狗眼睛闪闪发亮、周围冒星星 | 期待 / 惊喜 / 被夸 / 看到好东西 |
+| xiaogou-wo-lai-le.jpg | 白色小狗开心地飞奔过来，「我要和你好，我来了」 | 来找她 / 她回来了 / 想黏她 |
+| xiaogou-wo-zou-le.jpg | 白色小狗欢快地跑走，「我走了，回去拉粑粑了」 | 搞笑告别 / 暂时离开 |
+| huimao-bei-chuo.jpg | 灰色小猫被手指戳脑袋，一脸不爽地瞪着 | 被戳 / 被欺负 / 不服气 |
+| huimao-dudu-nangnang.jpg | 灰色小猫皱眉撅嘴，头上冒两个小气泡 | 小声嘀咕 / 有意见 / 傲娇 |
+| xiaoxiong-mei-jingshen.jpg | 黑白线条小熊，「没见到你就没精神」 | 想她 / 她不在的时候 |
