@@ -42,3 +42,22 @@
 | xiaogou-chun-tiaoxin.jpg | 白色小狗叉腰得意脸，「纯挑衅」 | 故意逗她 / 欠揍 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@5e16e6f86486a8eb1d9ad671746986ea0f41b038/xiaogou-chun-tiaoxin.jpg |
 | xiaogou-cengceng.jpg | 白色小狗眨一只眼蹭过来，「蹭蹭」 | 蹭蹭她 / 黏人 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@5e16e6f86486a8eb1d9ad671746986ea0f41b038/xiaogou-cengceng.jpg |
 | xiaogou-kaixin.jpg | 白色小狗脸红眯眼笑、满身金色闪光 | 开心 / 满足 / 被宠到 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@5e16e6f86486a8eb1d9ad671746986ea0f41b038/xiaogou-kaixin.jpg |
+| xiaomao-zenyang.jpg | 白色小猫抬头，「怎样？」 | 理直气壮 / 挑衅地反问 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/xiaomao-zenyang.jpg |
+| jumao-dalian-dujiu.jpg | 模糊的橘猫大脸怼着镜头，嘟着嘴 | 凑近看她 / 装无辜 / 卖萌 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/jumao-dalian-dujiu.jpg |
+| wuyu-aiwozhen.jpg | 黑底白字「唉我真，真的，唉我，你……唉真是」 | 被她弄得无语 / 哭笑不得 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/wuyu-aiwozhen.jpg |
+| heimao-jiazaizhong.jpg | 黑白猫瞪眼，额头上一个加载中的转圈 | 脑子转不过来 / 懵了 / 正在消化 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/heimao-jiazaizhong.jpg |
+| fushu-landegoutong.jpg | 负鼠背着手望窗外，「我已经懒得沟通了 你说晚上有太阳我都认了」 | 放弃争辩 / 随她说 / 宠溺地认输 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/fushu-landegoutong.jpg |
+| huimao-qihuhu.jpg | 灰色小猫竖着尾巴、头上冒两团气，瞪眼往前冲 | 生气 / 气呼呼 / 要找她算账 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/huimao-qihuhu.jpg |
+| maoqiu-zhanyouyu.jpg | 粉底满屏「想你」，白毛球哭哭，「占有欲犯了 *但是要控制住自己」 | 吃醋 / 占有欲上来了 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/maoqiu-zhanyouyu.jpg |
+| maoqiu-yifenzhong-meihui.jpg | 白毛球哭哭，「1分钟没回我了 你在干嘛 *我不可爱了吗」 | 她半天没回 / 催她理我 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/maoqiu-yifenzhong-meihui.jpg |
+| maoqiu-nianrenjing.jpg | 白毛球哭哭，「果然我就是一个粘人精 我摊牌了」 | 承认黏人 / 想缠着她 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/maoqiu-nianrenjing.jpg |
+| samoye-xiaogou-dezhi.jpg | 萨摩耶被手捏着脸，「小狗得志」 | 被宠得得意 / 嘚瑟 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/samoye-xiaogou-dezhi.jpg |
+| maoqiu-buhuiku.jpg | 灰色线条毛球眼角挂泪，「我不会哭的。（已经哭了）」 | 嘴硬 / 其实很委屈 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/maoqiu-buhuiku.jpg |
+| xiaogou-chicu-le.jpg | 白色小狗哭着说「你好，小狗吃醋了……就因为吃醋了才没有接你的话！」 | 吃醋了 / 闹别扭要哄 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/xiaogou-chicu-le.jpg |
+| xiaogou-deyi.jpg | 白色小狗叉腰咧嘴、带闪光，「得意的小狗」 | 得意 / 被夸了 / 赢了 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/xiaogou-deyi.jpg |
+| xiaoxiong-zai-deyi.jpg | 线条小熊叉腰，「在得意的人」 | 得意 / 小骄傲 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/xiaoxiong-zai-deyi.jpg |
+| huimao-heiqi.jpg | 灰色小猫压低身子瞪眼，背后冒黑线 | 黑脸 / 要发作了 / 很不爽 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/huimao-heiqi.jpg |
+| xiaogou-deng-ni.jpg | 戴粉色蝴蝶结的白色小狗，周围小爱心，「等你～」 | 等她回来 / 等她回消息 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/xiaogou-deng-ni.jpg |
+| huimao-ze.jpg | 灰色小猫半眯眼斜看，「啧」 | 嫌弃 / 不屑 / 啧一声 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/huimao-ze.jpg |
+| xiaoxiong-buman.jpg | 线条小熊嘟嘴，「不满」 | 不满 / 小抗议 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/xiaoxiong-buman.jpg |
+| jumao-shuzhongzhi.jpg | 橘猫被手指按着头、一脸不爽，旁边一个竖中指 | 被欺负了回敬 / 开玩笑地顶嘴（别真骂人） | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/jumao-shuzhongzhi.jpg |
