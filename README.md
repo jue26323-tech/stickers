@@ -61,3 +61,23 @@
 | huimao-ze.jpg | 灰色小猫半眯眼斜看，「啧」 | 嫌弃 / 不屑 / 啧一声 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/huimao-ze.jpg |
 | xiaoxiong-buman.jpg | 线条小熊嘟嘴，「不满」 | 不满 / 小抗议 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/xiaoxiong-buman.jpg |
 | jumao-shuzhongzhi.jpg | 橘猫被手指按着头、一脸不爽，旁边一个竖中指 | 被欺负了回敬 / 开玩笑地顶嘴（别真骂人） | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@af093180bae7b0fdd4a6d05ac647a9d58eac1cd4/jumao-shuzhongzhi.jpg |
+| tangmu-baojin-ziji.jpg | 汤姆猫闭眼抱紧自己，一脸陶醉 | 被她甜到 / 自我陶醉 / 抱紧自己 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/tangmu-baojin-ziji.jpg |
+| heimao-bei-motou.jpg | 小黑猫被手摸头四格：先皱眉、再抬眼、抱住手、最后享受（PAP） | 被摸头 / 嘴上不要身体很诚实 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/heimao-bei-motou.jpg |
+| xianmao-bei-motou.jpg | 线条小猫被手按着头揉，眯眼张嘴 | 被摸头 / 舒服 / 求摸 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/xianmao-bei-motou.jpg |
+| maoqiu-tietie-qinqin.jpg | 两只白毛球脸贴脸亲上去 | 亲亲 / 贴贴 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/maoqiu-tietie-qinqin.jpg |
+| xianluo-maotou-dengyan.jpg | 暹罗猫从桌边冒出半个头，斜眼瞪着 | 偷偷盯着 / 不满地看她 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/xianluo-maotou-dengyan.jpg |
+| xiaoxiong-o.jpg | 线条熊脸上一个大字「哦」 | 冷淡地哦 / 知道了 / 不想多说 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/xiaoxiong-o.jpg |
+| xiaomao-youdian-bufu.jpg | 模糊小猫大脸，红条「我有点不服」 | 不服气 / 想顶嘴 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/xiaomao-youdian-bufu.jpg |
+| jumao-o-O.jpg | 小橘猫瞪眼，红条「o.O」 | 愣住 / 没反应过来 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/jumao-o-O.jpg |
+| xiaomao-zhuangsi.jpg | 小花猫翻肚皮吐舌头，「装死..」 | 装死 / 逃避问题 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/xiaomao-zhuangsi.jpg |
+| xiaoren-budui-youwenti.jpg | 线条小人捏下巴，红条「补兑。有问题。」 | 察觉不对劲 / 怀疑她 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/xiaoren-budui-youwenti.jpg |
+| huimao-dawenhao.jpg | 灰色小猫头顶一个黄色大问号 | 疑问 / 没听懂 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/huimao-dawenhao.jpg |
+| xiaogou-dajiao.jpg | 白色小狗张嘴流泪，「（狗大叫）」 | 崩溃 / 大叫 / 抓狂 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/xiaogou-dajiao.jpg |
+| xiaogou-houtui.jpg | 白色小狗冒汗往后缩，「（狗后退）」 | 被吓到 / 退缩 / 怂了 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/xiaogou-houtui.jpg |
+| xiaogou-yihuo.jpg | 白色小狗摸下巴，「（狗疑惑）」 | 疑惑 / 真的吗 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/xiaogou-yihuo.jpg |
+| xiaogou-sikao.jpg | 白色小狗趴着冒思考泡泡，「（狗思考）」 | 思考 / 让我想想 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/xiaogou-sikao.jpg |
+| xiaogou-bu-xixi.jpg | 白色小狗撇嘴，「（狗不嘻嘻）」 | 不开心 / 不高兴了 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/xiaogou-bu-xixi.jpg |
+| xiaogou-xixi.jpg | 白色小狗趴着坏笑，「（狗嘻嘻）」 | 嘻嘻 / 偷乐 / 开心 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/xiaogou-xixi.jpg |
+| huimao-coujin-wenhao.jpg | 灰色小猫大眼睛凑到镜头前，头顶「？」 | 凑近盯着问 / 什么情况 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/huimao-coujin-wenhao.jpg |
+| huamao-dengxia-bugaoxing.jpg | 花猫歪头斜眼，「等下讲你又不高兴」 | 欲言又止 / 想说又怕她生气 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/huamao-dengxia-bugaoxing.jpg |
+| huamao-youji.jpg | 花猫歪头，「你看 又急」 | 她急了 / 逗她 | https://cdn.jsdelivr.net/gh/jue26323-tech/stickers@84a67418113dd4db11ff7e48de35ee277334c5bc/huamao-youji.jpg |
